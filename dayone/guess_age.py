@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 #Author: Leon xie
 
+# guess ages games
 age = 20
 
 gues_age = int(input("age:"))  # str --> int
