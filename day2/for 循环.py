@@ -13,3 +13,5 @@ for i in range(3):
         print("try smaller.....")
     else:
         print("try bigger...")
+else:
+    exit("too many attempts....")
