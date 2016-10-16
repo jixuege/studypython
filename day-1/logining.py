@@ -14,3 +14,7 @@ if user == username and passwd == password:
 else:
     print("登录失败")
 
+
+#打开一个文件，用于写入，后面的'wb'表示每次写入前格式化文本，如果此文件不存在，则创建一个此文件名的文件
+f2 = open('heimingdan.txt','wb')
+for x in
