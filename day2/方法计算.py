@@ -17,5 +17,5 @@ print(msg1)
 print('{0} {1} {0}'.format('name','age'))
 print('{name}'.format(name='xiedi'))
 
-print('{} {}')
+print('{} {}').format('name','age')
 
